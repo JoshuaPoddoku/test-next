@@ -99,9 +99,9 @@ export default function Home() {
         }
 
         .title {
-          margin: 0;
+          margin: 20px;
           line-height: 1.15;
-          font-size: 4rem;
+          font-size: 2rem;
         }
 
         .title,
